@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "aoi",
+    "name": "X Lib",
+    "description": "mods Library",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["sousuke0422"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
