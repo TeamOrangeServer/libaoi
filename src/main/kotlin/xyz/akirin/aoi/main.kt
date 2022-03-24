@@ -8,7 +8,7 @@ class main {
 
     companion object {
         const val ID = "aoi"
-        internal const val Name = "X Lib"
+        internal const val Name = "FMLibaoi"
         internal const val Version = "core:1.0.0, codename:aoi"
         internal const val Lang = "kotlin"
     }
